@@ -30,3 +30,5 @@ node_modules
 \.DS_Store
 
 prepros-6\.config
+
+\.history/
